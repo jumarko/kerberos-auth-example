@@ -1,7 +1,6 @@
 package net.curiousprogrammer.auth.kerberos.example;
 
 import java.io.IOException;
-import java.util.Arrays;
 
 import javax.security.auth.callback.Callback;
 import javax.security.auth.callback.CallbackHandler;
